@@ -1,0 +1,20 @@
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\bin\Debug\PRG282_Project.exe.config
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\bin\Debug\PRG282_Project.exe
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\bin\Debug\PRG282_Project.pdb
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.csproj.AssemblyReference.cache
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.Properties.Resources.resources
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.csproj.GenerateResource.cache
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.csproj.CoreCompileInputs.cache
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.exe
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.pdb
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.exe.config
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.Login.resources
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.Main.resources
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.addHero.resources
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.Update.resources
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.Summary.resources
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.Superheros.resources
+C:\Users\King\source\repos\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.Delete.resources
+C:\Users\enhle\Downloads\WPR281 Project\PRG281 Final Project\PRG282_Project\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.csproj.AssemblyReference.cache
+C:\Users\enhle\Downloads\WPR281 Project\PRG281 Final Project\PRG282_Project\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.exe
+C:\Users\enhle\Downloads\WPR281 Project\PRG281 Final Project\PRG282_Project\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.pdb
