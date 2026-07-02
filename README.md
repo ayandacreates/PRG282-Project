@@ -5,17 +5,17 @@ A C# Windows Forms application built for the One Kick Heroes Academy. The system
 C#, Windows Forms, Git, GitHub
 
 ## Features 
-**Add a Hero** — Log new trainee superheroes with their relevant details
+**Add a Hero**: Log new trainee superheroes with their relevant details
 
-**View Heroes** — Browse and view all existing superhero records in the system
+**View Heroes**: Browse and view all existing superhero records in the system
 
-**Update a Hero** — Edit and update a hero's information when needed
+**Update a Hero**: Edit and update a hero's information when needed
 
-**Delete a Hero** — Remove a hero's record from the system
+**Delete a Hero**: Remove a hero's record from the system
 
-**Rank & Threat Level Calculation** — The system automatically calculates each hero's rank and threat level based on their exam scores
+**Rank & Threat Level Calculation**: The system automatically calculates each hero's rank and threat level based on their exam scores
 
-**Summary Report** — Generates a report showing the total number of heroes, the average age and exam score, and how many heroes fall under each rank
+**Summary Report**: Generates a report showing the total number of heroes, the average age and exam score, and how many heroes fall under each rank
 
 ## The Process
 This was a group project built by a team of 4. The goal was to build a digital replacement for a manual, paper-based system used to record and assess trainee superheroes. We divided the features amongst ourselves, collaborated using Git and GitHub to manage changes and make meaningful commits, and brought everything together into one working application.
